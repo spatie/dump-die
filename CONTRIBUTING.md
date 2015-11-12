@@ -17,7 +17,7 @@ Contributions are **welcome** and will be fully **credited**. We accept contribu
 ## Running Tests
 
 ```bash
-npm run tests
+npm run test
 ```
 
 *Happy coding!*
