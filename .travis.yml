@@ -5,5 +5,4 @@ sudo: false
 
 before_script:
   - npm install
-
-script: npm run test
+  - npm install npm -g
