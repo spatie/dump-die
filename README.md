@@ -1,5 +1,6 @@
 # dump-die
 
+[![Latest Version on NPM](https://img.shields.io/npm/v/dump-die.svg?style=flat-square)](https://npmjs.com/package/dump-die)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/spatie/dump-die.svg?style=flat-square)](https://travis-ci.org/spatie/dump-die)
 [![Code Climate](https://img.shields.io/codeclimate/github/spatie/dump-die.svg?style=flat-square)](https://img.shields.io/codeclimate/github/spatie/dump-die.svg)
