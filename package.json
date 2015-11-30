@@ -1,6 +1,6 @@
 {
   "name": "dump-die",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Dump an object and kill the process in node.js",
   "main": "lib/dd.js",
   "scripts": {
@@ -14,11 +14,11 @@
     "url": "git+https://github.com/spatie/emits-events.git"
   },
   "keywords": [
-    "events",
-    "emit",
-    "emitter",
-    "change",
-    "store"
+    "dump",
+    "debug",
+    "console",
+    "dd",
+    "laravel"
   ],
   "author": "Sebastian De Deyne",
   "license": "MIT",
