@@ -28,7 +28,7 @@
   "homepage": "https://github.com/spatie/dump-die#readme",
   "devDependencies": {
     "chai": "^3.3.0",
-    "eslint": "^1.7.2",
+    "eslint": "^7.1.0",
     "mocha": "^2.3.3"
   }
 }
